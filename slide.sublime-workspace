@@ -1,0 +1,344 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"animate",
+				"animatePanel"
+			],
+			[
+				"ini",
+				"iniDisplay"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-right"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5090,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/sliding_panels.css",
+			"settings":
+			{
+				"buffer_size": 2018,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/sliding_panels.js",
+			"settings":
+			{
+				"buffer_size": 1335,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"d",
+				"Set Syntax: D"
+			],
+			[
+				"doct",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"ht",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/J/Lynda.com - jQuery Bundle (Essential Training + 13 projects)/13 - Create a Sliding Tabbed Panel with jQuery and Dreamweaver/Exercise Files/5 - Final Project - styled/index.html",
+		"/J/Lynda.com - jQuery Bundle (Essential Training + 13 projects)/13 - Create a Sliding Tabbed Panel with jQuery and Dreamweaver/Exercise Files/5 - Final Project - styled/includes/sliding_panels.css",
+		"/C/Documents and Settings/User/Desktop/Slide Tabbed/includes/sliding_panels.js",
+		"/C/Documents and Settings/User/Desktop/Dreamweaver/Another Sample/Position_Overflow.html",
+		"/C/Documents and Settings/User/Desktop/Slide Tabbed/index.html",
+		"/C/Documents and Settings/User/Desktop/Slide Tabbed/includes/sliding_panels.css",
+		"/C/Documents and Settings/User/Desktop/Dreamweaver/JQuery Essential/04_events/binding_start.htm",
+		"/C/Documents and Settings/User/Desktop/Dreamweaver/Another Sample/My Interactive PhotoGallery/Auto Marquee/includes/marquee.js",
+		"/C/Documents and Settings/User/Desktop/Dreamweaver/My CSS Practice/Final Practice/_css/main.css",
+		"/C/Documents and Settings/User/Desktop/Dreamweaver/My CSS Practice/Final Practice/index.htm",
+		"/C/Documents and Settings/User/Desktop/Dreamweaver/Another Sample/My Interactive PhotoGallery/Auto Marquee/marquee.htm",
+		"/C/Documents and Settings/User/Desktop/Dreamweaver/Another Sample/My Interactive PhotoGallery/Auto Marquee/includes/marquee.css",
+		"/C/Documents and Settings/User/Desktop/Dreamweaver/My CSS Practice/Final Practice/_scripts/scripts.js",
+		"/C/Documents and Settings/User/Desktop/Slide Tabbed/includes/doctype.html",
+		"/C/Documents and Settings/User/Application Data/Sublime Text 2/Packages/User/doctype.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"iniDisplay",
+			"tabLength",
+			"panel_contaner",
+			"panel_content",
+			"fff",
+			".ipad h2 {\n	color: #fff;\n}",
+			"Optional",
+			"tabs",
+			"	$(",
+			"	$('.tabs li').each(function(e){\n",
+			"					<li class=\"ipad\">iPad</li>\n",
+			"div",
+			"Create",
+			"Gallery",
+			"gallery",
+			"remove",
+			"tabs",
+			"tabs5",
+			"tabs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"panel_container",
+			"tab12",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 5090,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								943,
+								956
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 616.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "includes/sliding_panels.css",
+					"settings":
+					{
+						"buffer_size": 2018,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1592,
+								1598
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1518.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "includes/sliding_panels.js",
+					"settings":
+					{
+						"buffer_size": 1335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1303,
+								1303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 330.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

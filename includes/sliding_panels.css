@@ -1,0 +1,104 @@
+/*  CSS Document                             */
+/*  Written by Chris Converse for Lynda.com  */
+
+body { font: 14px Arial; margin: 0px auto; padding: 30px; background-color: #fff; width: 90%; }
+
+a, a:visited { color: #00f; }
+h1.fpo_text { color: #aaa; font-family: Times; font-size: 24px; }
+p.fpo_text { color: #aaa; font-family: Times; font-size: 16px; }
+a {
+	color: #FFB35B;
+	line-height: 25px;
+}
+/* ============ Containers section ===========*/
+.tabs {
+	height: 25px;
+}
+.sp {
+	width: 500px;
+	float: right;
+	margin: 0 0 15px 30px;
+}
+.panel_container {
+	z-index: 10;
+	top: -1px;
+	position: relative;
+	overflow: hidden;
+	border: 1px solid #ccc;
+	box-shadow: 3px 3px 5px rgba(0,0,0,.5);
+}
+.panels {
+	position: absolute;
+	left: 0;
+}
+.panel {
+	position: absolute;
+}
+.panel_content {
+	padding: 15px 145px 15px 15px;
+}
+/* ============ Descendant of Containers section ===========*/
+.sp a:hover, .photo h2 {
+	color: #F5F0B0;
+}
+.video p, .photo p, .ipad h2 {
+	color: #fff;
+}
+.sp h2 {
+	font-size: 1.15em;
+	margin: 0 0 .5em;
+}
+.sp p {
+	font-size: 1em;
+	margin: 0 0 1em;
+	line-height: 1.5em;
+}
+li, ul {
+	margin: 0;
+	padding: 0;
+}
+.clear {
+	clear: both;
+}
+.tabs li{
+	z-index: 101;
+	position: relative;
+	display: block;
+	height: 25px;
+    float: left;
+    line-height: 25px;
+    padding: 0 10px;
+    font-size: 15px;
+	border: 1px solid #ccc;
+	border-bottom: none;
+	cursor: pointer;
+}
+
+.tabs li:last-child {
+	border-left: none;
+	border-top-right-radius: 10px;
+}
+.tabs li:first-child {
+	border-right: none;
+	border-top-left-radius: 10px;
+}
+.tabs li.selected, .ipad.selected {
+	border-bottom: none;
+	color: #F5F0B0;
+	cursor: default;
+}
+ /*============ background image section ===========*/
+.panel.ipad, .ipad.selected {
+	background: url(../images/ipad_background.jpg) repeat-y 0 0;
+}
+
+.panel.video, .video.selected {
+	background: url(../images/video_background.jpg) repeat-y 0 0;
+}
+
+.panel.photo, .photo.selected {
+	background: url(../images/photo_background.jpg) repeat-y 0 0;
+}
+
+/* ============ Selected tab section ===========*/
+
